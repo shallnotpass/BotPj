@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\????????\ChatBotProject\ChatBotProject\ChatBotProject\bin\Debug\new.py", line 7, in <module>
+    UTTERANCE = sys.argv[1]#"My friends are cool but they eat too many carbs."
+NameError: name 'sys' is not defined
+
+Human:  who
+Bot:  i've never been to a concert, but i'd like to go one day.
+
+Human:  who
+Bot:  i've never been to a concert, but i'd like to go one day.
+
